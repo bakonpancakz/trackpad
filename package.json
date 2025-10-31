@@ -14,7 +14,7 @@
         "LICENSE"
     ],
     "repository": {
-        "url": "https://github.com/bakonpancakzz/trackpad"
+        "url": "https://github.com/bakonpancakz/trackpad"
     },
     "scripts": {
         "build": "npm install && npx tsc && npm prune --omit=dev && npx @vscode/vsce package"
